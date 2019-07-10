@@ -1,0 +1,12 @@
+[
+  {
+    "name": "sun.security.ec.ECKeyPairGenerator",
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredMethods": true,
+    "allPublicMethods": true,
+    "methods": [{ "name" : "generateECKeyPair", "parameterTypes": ["int", "byte[]", "byte[]"] }],
+    "allDeclaredClasses": true,
+    "allPublicClasses": true
+  }
+]
